@@ -1,0 +1,28 @@
+{
+  "name": "@9r3i/forceserver",
+  "version": "1.4.1",
+  "description": "Server for Force API",
+  "main": "forceserver.js",
+  "dependencies": {
+    "@9r3i/forcedata": "^2.0.4",
+    "@9r3i/parser": "^1.2.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "force",
+    "server",
+    "api"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/9r3i/forceserver.js.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com",
+    "access": "public"
+  },
+  "author": "9r3i",
+  "license": "MIT"
+}
